@@ -1,4 +1,4 @@
-# Pytech
+# Phytech
 Create new react app
 
 // Use https://docs.github.com/en/free-pro-team@latest/rest/reference/users#list-users to get a list of github users
